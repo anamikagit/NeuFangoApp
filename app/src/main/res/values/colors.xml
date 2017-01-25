@@ -3,4 +3,7 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="appColor1">#2d9bfd</color>
+    <color name="appColor2">#10ffff</color>
+    <color name="appColor3">#1e2126</color>
 </resources>
